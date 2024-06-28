@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "apple",
+      "completed": false
+    },
+    {
+      "id": "4efd",
+      "name": "franco",
+      "completed": false
+    },
+    {
+      "id": "448e",
+      "name": "dsdsdf",
+      "completed": false
+    },
+    {
+      "id": "da94",
+      "name": "ssss",
+      "completed": false
+    },
+    {
+      "id": "dff4",
+      "name": "gianni",
+      "completed": false
+    },
+    {
+      "id": "4fa2",
+      "name": "mario",
+      "completed": false
+    }
+  ]
+}
